@@ -65,10 +65,6 @@ open_to_img('small_img.zip','cv')
 #
 #
 #
-#         # with myzip.open('a-0.png') as myfile:
-#         # #data = myzip.read('a-0.png')
-#
-#
 #
 #
 # #
