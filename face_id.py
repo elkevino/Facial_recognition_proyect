@@ -76,4 +76,4 @@ def croping_faces(faces,listpil): #dont forget to add faces param back
 listcv = open_and_list('small_img.zip','cv')
 listpil = open_and_list('small_img.zip')
 faces = face_detect(listcv,'haar_face.xml')
-croping_faces(faces,listpil) # dont forget to add faces param back
+croping_faces(faces,listpil) 
